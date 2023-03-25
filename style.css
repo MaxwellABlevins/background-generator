@@ -1,0 +1,19 @@
+body {
+    font-family: 'Rubik Iso', cursive;
+    background: linear-gradient(to right, #ffa500, #87ceeb);
+    text-align: center;
+}
+
+
+h1 {
+    display: flex;
+    font-size: 4rem;
+    justify-content: center;
+    width: 100%;
+}
+
+h2 {
+    font-size: 2rem;
+
+}
+
